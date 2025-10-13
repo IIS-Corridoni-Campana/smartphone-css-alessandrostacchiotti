@@ -1,0 +1,32 @@
+body {
+  background-color: #f4f4f9;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  text-align: center;
+}
+h1 {
+  color: #222;
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+h3 {
+  color: #666;
+  margin-bottom: 30px;
+}
+p {
+  font-size: 18px;
+  width: 80%;
+  text-align: center;
+  margin: 30px auto;
+}
+ul {
+  text-align: left;
+  display: inline-block;
+  font-size: 16px;
+}
+button {
+  background-color: #ff6600;
+  color: white;
+  padding: 10px 20px;
+  font-size: 18px;
+}
